@@ -6,3 +6,4 @@ release/
 *.sln
 *.vcxproj
 *.filters
+build-test*
